@@ -2,15 +2,22 @@
 This Class was taken by David Hill in Fall Quarter. 
 It has homeworks of following modules:
 
-# Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
-#Data types and arrays, strings, cells, structures, scripts vs. live scripts
-#m-files, functions, for loops, while loops, if statements, and so on
-#File input and output, ascii, binary, tables, etc.
+1. Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
 
-#Curve fitting and parameter estimation
+2.Data types and arrays, strings, cells, structures, scripts vs. live scripts
 
-#Techniques for solving differential equations (numerically)
+3.m-files, functions, for loops, while loops, if statements, and so on
 
-#Time series analysis, detrending, outlier detection, filtering Mapping stuff, projections, etc.
+4.File input and output, ascii, binary, tables, etc.
 
-#NetCDF, metadata, code version control, etc.
+5.Ooooo....pretty graphics
+
+6.Curve fitting and parameter estimation
+
+7.Techniques for solving differential equations (numerically)
+
+8.Time series analysis, detrending, outlier detection, filtering 
+
+9.Mapping stuff, projections, etc.
+
+10.NetCDF, metadata, code version control, etc.
