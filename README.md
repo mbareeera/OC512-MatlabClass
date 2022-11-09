@@ -1,7 +1,7 @@
 # OC512-MatlabClass
 This Class was taken by David Hill in Fall Quarter. 
 
-It has homeworks of following modules
+It has homeworks of following modules:
 
 1. Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
 
